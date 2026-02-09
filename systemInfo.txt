@@ -1,0 +1,594 @@
+Time: 2/9/2026, 11:24:02 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 92.23 MB
+----------------------------------
+Time: 2/9/2026, 11:24:07 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 82.42 MB
+----------------------------------
+Time: 2/9/2026, 11:24:12 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 85.17 MB
+----------------------------------
+Time: 2/9/2026, 11:24:17 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 123.25 MB
+----------------------------------
+Time: 2/9/2026, 11:24:22 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 192.31 MB
+----------------------------------
+Time: 2/9/2026, 11:24:27 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 122.19 MB
+----------------------------------
+Time: 2/9/2026, 11:24:32 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 176.14 MB
+----------------------------------
+Time: 2/9/2026, 11:24:37 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 125.84 MB
+----------------------------------
+Time: 2/9/2026, 11:24:42 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 97.44 MB
+----------------------------------
+Time: 2/9/2026, 11:24:47 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 104.11 MB
+----------------------------------
+Time: 2/9/2026, 11:24:52 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 184.36 MB
+----------------------------------
+Time: 2/9/2026, 11:24:57 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 147.59 MB
+----------------------------------
+Time: 2/9/2026, 11:25:02 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 145.50 MB
+----------------------------------
+Time: 2/9/2026, 11:25:07 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 104.91 MB
+----------------------------------
+Time: 2/9/2026, 11:25:12 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 108.83 MB
+----------------------------------
+Time: 2/9/2026, 11:25:17 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 86.56 MB
+----------------------------------
+Time: 2/9/2026, 11:25:22 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 78.83 MB
+----------------------------------
+Time: 2/9/2026, 11:25:27 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 95.59 MB
+----------------------------------
+Time: 2/9/2026, 11:25:32 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 85.80 MB
+----------------------------------
+Time: 2/9/2026, 11:25:37 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 91.31 MB
+----------------------------------
+Time: 2/9/2026, 11:25:42 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 85.11 MB
+----------------------------------
+Time: 2/9/2026, 11:25:47 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 105.23 MB
+----------------------------------
+Time: 2/9/2026, 11:25:52 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 120.88 MB
+----------------------------------
+Time: 2/9/2026, 11:25:57 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 118.06 MB
+----------------------------------
+Time: 2/9/2026, 11:26:02 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 122.00 MB
+----------------------------------
+Time: 2/9/2026, 11:26:07 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 115.09 MB
+----------------------------------
+Time: 2/9/2026, 11:26:12 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 84.36 MB
+----------------------------------
+Time: 2/9/2026, 11:26:17 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 99.17 MB
+----------------------------------
+Time: 2/9/2026, 11:26:22 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 92.94 MB
+----------------------------------
+Time: 2/9/2026, 11:26:27 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 95.55 MB
+----------------------------------
+Time: 2/9/2026, 11:26:32 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 81.14 MB
+----------------------------------
+Time: 2/9/2026, 11:26:37 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 88.08 MB
+----------------------------------
+Time: 2/9/2026, 11:26:42 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 96.30 MB
+----------------------------------
+Time: 2/9/2026, 11:26:47 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 83.64 MB
+----------------------------------
+Time: 2/9/2026, 11:26:52 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 98.52 MB
+----------------------------------
+Time: 2/9/2026, 11:26:57 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 101.44 MB
+----------------------------------
+Time: 2/9/2026, 11:27:02 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 96.47 MB
+----------------------------------
+Time: 2/9/2026, 11:27:07 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 84.13 MB
+----------------------------------
+Time: 2/9/2026, 11:27:12 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 82.05 MB
+----------------------------------
+Time: 2/9/2026, 11:27:17 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 103.03 MB
+----------------------------------
+Time: 2/9/2026, 11:27:22 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 113.50 MB
+----------------------------------
+Time: 2/9/2026, 11:27:27 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 121.64 MB
+----------------------------------
+Time: 2/9/2026, 11:27:32 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 92.73 MB
+----------------------------------
+Time: 2/9/2026, 11:27:37 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 114.70 MB
+----------------------------------
+Time: 2/9/2026, 11:27:42 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 98.66 MB
+----------------------------------
+Time: 2/9/2026, 11:27:47 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 135.92 MB
+----------------------------------
+Time: 2/9/2026, 11:27:52 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 128.34 MB
+----------------------------------
+Time: 2/9/2026, 11:27:57 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 184.44 MB
+----------------------------------
+Time: 2/9/2026, 11:28:02 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 136.78 MB
+----------------------------------
+Time: 2/9/2026, 11:28:07 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 125.61 MB
+----------------------------------
+Time: 2/9/2026, 11:28:12 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 125.38 MB
+----------------------------------
+Time: 2/9/2026, 11:28:17 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 99.72 MB
+----------------------------------
+Time: 2/9/2026, 11:28:22 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 103.36 MB
+----------------------------------
+Time: 2/9/2026, 11:28:27 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 108.48 MB
+----------------------------------
+Time: 2/9/2026, 11:28:32 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 155.38 MB
+----------------------------------
+Time: 2/9/2026, 11:28:37 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 102.33 MB
+----------------------------------
+Time: 2/9/2026, 11:28:42 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 116.94 MB
+----------------------------------
+Time: 2/9/2026, 11:28:47 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 105.66 MB
+----------------------------------
+Time: 2/9/2026, 11:28:52 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 114.84 MB
+----------------------------------
+Time: 2/9/2026, 11:28:57 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 98.58 MB
+----------------------------------
+Time: 2/9/2026, 11:29:02 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 102.58 MB
+----------------------------------
+Time: 2/9/2026, 11:29:07 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 83.13 MB
+----------------------------------
+Time: 2/9/2026, 11:29:12 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 83.27 MB
+----------------------------------
+Time: 2/9/2026, 11:29:17 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 228.13 MB
+----------------------------------
+Time: 2/9/2026, 11:29:22 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 208.23 MB
+----------------------------------
+Time: 2/9/2026, 11:29:27 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 138.00 MB
+----------------------------------
+Time: 2/9/2026, 11:29:32 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 91.09 MB
+----------------------------------
+Time: 2/9/2026, 11:29:37 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 84.47 MB
+----------------------------------
+Time: 2/9/2026, 11:29:42 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 118.72 MB
+----------------------------------
+Time: 2/9/2026, 11:29:47 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 111.81 MB
+----------------------------------
+Time: 2/9/2026, 11:29:52 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 85.83 MB
+----------------------------------
+Time: 2/9/2026, 11:29:57 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 92.16 MB
+----------------------------------
+Time: 2/9/2026, 11:30:02 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 79.13 MB
+----------------------------------
+Time: 2/9/2026, 11:30:07 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 89.31 MB
+----------------------------------
+Time: 2/9/2026, 11:30:12 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 106.11 MB
+----------------------------------
+Time: 2/9/2026, 11:30:17 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 84.86 MB
+----------------------------------
+Time: 2/9/2026, 11:30:22 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 91.16 MB
+----------------------------------
+Time: 2/9/2026, 11:30:27 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 82.13 MB
+----------------------------------
+Time: 2/9/2026, 11:30:32 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 89.91 MB
+----------------------------------
+Time: 2/9/2026, 11:30:37 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 116.38 MB
+----------------------------------
+Time: 2/9/2026, 11:30:42 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 160.42 MB
+----------------------------------
+Time: 2/9/2026, 11:30:47 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 168.38 MB
+----------------------------------
+Time: 2/9/2026, 11:30:52 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 102.59 MB
+----------------------------------
+Time: 2/9/2026, 11:30:57 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 120.61 MB
+----------------------------------
+Time: 2/9/2026, 11:31:02 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 93.66 MB
+----------------------------------
+Time: 2/9/2026, 11:31:07 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 108.30 MB
+----------------------------------
+Time: 2/9/2026, 11:31:12 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 106.56 MB
+----------------------------------
+Time: 2/9/2026, 11:31:17 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 90.55 MB
+----------------------------------
+Time: 2/9/2026, 11:31:22 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 110.23 MB
+----------------------------------
+Time: 2/9/2026, 11:31:27 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 108.72 MB
+----------------------------------
+Time: 2/9/2026, 11:31:32 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 103.17 MB
+----------------------------------
+Time: 2/9/2026, 11:31:37 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 105.41 MB
+----------------------------------
+Time: 2/9/2026, 11:31:42 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 106.38 MB
+----------------------------------
+Time: 2/9/2026, 11:31:47 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 88.55 MB
+----------------------------------
+Time: 2/9/2026, 11:31:52 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 94.95 MB
+----------------------------------
+Time: 2/9/2026, 11:31:57 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 83.86 MB
+----------------------------------
+Time: 2/9/2026, 11:32:02 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 107.72 MB
+----------------------------------
+Time: 2/9/2026, 11:32:07 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 105.47 MB
+----------------------------------
+Time: 2/9/2026, 11:32:12 AM
+Platform: darwin
+CPU Architecture: arm64
+Total Memory: 8192.00 MB
+Free Memory: 97.52 MB
+----------------------------------

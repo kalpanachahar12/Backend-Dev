@@ -1,0 +1,24 @@
+{
+  "name": "backend-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "scripts": {
+    "dev": "node node.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalpanachahar12/Backend-Dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kalpanachahar12/Backend-Dev/issues"
+  },
+  "homepage": "https://github.com/kalpanachahar12/Backend-Dev#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
